@@ -59,9 +59,9 @@ Este proyecto consiste en la creación de un portafolio personal utilizando CSS 
 
 ## ⚠️ Problemas Conocidos y Mejoras
 
--❌ Aún no se ha implementado una opción para modo oscuro.
+-❌ Mejoras en la optimización de imágenes para una carga más rápida.
 
--❌ Podría mejorarse la animación de transiciones en las imágenes.
+-❌ Posibilidad de agregar una sección de blog o testimonios.
 
 ---
 
