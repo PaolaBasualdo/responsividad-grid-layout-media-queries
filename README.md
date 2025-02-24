@@ -8,7 +8,7 @@
 📌 Creación de un Portafolio Personal con CSS Grid Layout
 </h2>
 
-<p id="insignias" align="left">
+<p id="insignias" align="center">
 <img src="https://img.shields.io/badge/STATUS-TERMINADO-blue">
 <img src="https://img.shields.io/github/languages/top/PaolaBasualdo/responsividad-grid-layout-media-queries">
 <img src="https://img.shields.io/github/stars/PaolaBasualdo/responsividad-grid-layout-media-queries?style=social">
