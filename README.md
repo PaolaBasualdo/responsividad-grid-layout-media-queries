@@ -39,7 +39,7 @@ Este proyecto consiste en la creación de un portafolio personal utilizando CSS 
 
 ---
 
-🚧 Estado del proyecto
+## 🚧 Estado del proyecto
 <h3 align="left">
 ✅ Terminado
 </h3>
